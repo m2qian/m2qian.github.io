@@ -1,0 +1,1 @@
+document.addEventListener("copy",(function(n){btf.snackbarShow("复制成功，请遵循GPL协议",!1,3e3)}));
