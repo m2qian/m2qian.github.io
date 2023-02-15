@@ -6,7 +6,7 @@
   <link href="http://rugu.space/atom.xml" rel="self"/>
   
   <link href="http://rugu.space/"/>
-  <updated>2023-02-12T02:32:52.594Z</updated>
+  <updated>2023-02-15T13:52:19.359Z</updated>
   <id>http://rugu.space/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>马原cy</title>
+    <link href="http://rugu.space/posts/967057821.html"/>
+    <id>http://rugu.space/posts/967057821.html</id>
+    <published>2023-02-15T13:44:47.000Z</published>
+    <updated>2023-02-15T13:52:19.359Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://s1.vika.cn/space/2023/02/15/47403ca252a646469299a5538faf70b7" alt=""><br><img src="https://s1.vika.cn/space/2023/02/15/d1b7fb90f4e540699de4c1dead0ebaf6" alt=""><br><img src="https://s1.vika.cn/space/2023/02/15/17259b3450c549fa9ff9944828d947b4" alt=""><br><img src="https://s1.vika.cn/space/2023/02/15/3f509b0dd002436f8f1e8ba3be7df95c" alt=""><br><img src="https://s1.vika.cn/space/2023/02/15/e9f768b8932f44cfb17d6889f5f5bf79" alt=""><br><img src="https://s1.vika.cn/space/2023/02/15/f590f579b26c4bd59516950d4f6b9afc" alt=""><br>实践与认识的辩证关系：感性认识—理性认识—实践 ，之后继续实践认识循环反复的辩证发展过程<br>实践是认识发展的动力，实践是认识的目的，认识对实践具有反作用，实践是检验认识真理性的唯一标准<br>正确的的认识：从实践到知识，反复循环，到达一个更高的层次，这是二者的运动发展的一般规律</p><p>真理的检验标准<br><img src="https://s1.vika.cn/space/2023/02/15/5b4b793ad6854bc08d3bb7307c2c5c15" alt=""><br><img src="https://s1.vika.cn/space/2023/02/15/fe72bd00b4dc40d4b81e1347344ef2c7" alt=""><br><img src="https://s1.vika.cn/space/2023/02/15/726b14ce47264b60bf59e54f880abb9e" alt=""><br>社会基本矛盾：<br>生产力与生产关系<br>经济基础与上层建筑<br>社会运动规律：<br>生产关系一定要适应生产力状况<br>上层建筑要符合经济基础状况<br><img src="https://s1.vika.cn/space/2023/02/15/89207273ccb14452b4e1aa06c7633b3d" alt=""><br>第三点着重记忆，前二者理解即可<br>历史范畴，推动社会发展，绝大多数都是，存在历史长河的不同片段，生产者为重，历史的主体，但受到历史条件的制约<br><img src="https://s1.vika.cn/space/2023/02/15/ad115ce921a6498ebe6a37e4c686eef2" alt=""><br>重点为积极作用</p><p><img src="https://s1.vika.cn/space/2023/02/15/1e10f61b2cf249fa9077ff085ac71771" alt=""><br>但不管是绝对还是相对的方式都是延长了劳动时间<br><img src="https://s1.vika.cn/space/2023/02/15/094cec392aec4a728e3453798b8ae0b1" alt=""><br>利：推动生产力发展，促进资源分配，推动分工，效率提高<br>弊：针对于发展中国家，可能被其它国家的经济波动所影响到，全球经济不稳定性提高<br>如何做？<br>积极参与，抓住机遇，勇于挑战，趋利避害<br><img src="https://s1.vika.cn/space/2023/02/15/7632eab363f74debabb6e7a634e1465f" alt=""><br><img src="https://s1.vika.cn/space/2023/02/15/fc6de21a332540a7a0000df3cb1f6e8b" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://s1.vika.cn/space/2023/02/15/47403ca252a646469299a5538faf70b7&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>数据结构题型复习</title>
     <link href="http://rugu.space/posts/3112346615.html"/>
     <id>http://rugu.space/posts/3112346615.html</id>
     <published>2023-02-10T12:37:06.000Z</published>
-    <updated>2023-02-12T02:32:52.594Z</updated>
+    <updated>2023-02-13T01:16:01.950Z</updated>
     
     <content type="html"><![CDATA[<h1 id="数据结构按类复习"><a href="#数据结构按类复习" class="headerlink" title="数据结构按类复习"></a>数据结构按类复习</h1><p><em>为此间目录</em></p><ol><li>模式匹配</li><li>画二义树（根据中序和后序，前序和中序）以及其线索二义树</li><li>求叶子结点个数，建立二叉排序树</li><li>广义表</li><li>求存储地址</li><li>代码设计</li><li>哈夫曼树</li><li>最小生成树</li><li>深度遍历，广度遍历，邻接表建立</li><li>哈希表（线性探测法、拉链法）</li><li>排序</li></ol><p>接下来我们按顺序讲</p><h2 id="模式匹配"><a href="#模式匹配" class="headerlink" title="模式匹配"></a>模式匹配</h2><p>对于模式匹配，实际的它的前身是一个叫做前缀表的东西<br>什么是前缀表？<br>一个文本串，一个模式串<br>模式串的作用是在文本串进行匹配，而我们的前缀表以及next数组就是在这个模式串上做文章<br>栗子：<br>一个模式串是：abcdaaf<br>此时这个的前缀表是什么？<br>分别是 0 0 0 0 1 1 0<br>这个数值就是为了跳到模式串本身的什么位置开始继续对文本串进行匹配<br><strong>注意：</strong> 这里下标是从0开始</p><p>那么前缀表说完了，next数组又是什么呢？<br>next就是在前缀表的基础上进行了统一操作，比如统一减一，又或者是右移（同时将首位设置为-1）<br><strong>p.s.</strong> 在严蔚敏老师的书中，逻辑都是右移的操作<br>同时提到了nextval数组，这是什么呢？<br>nextval的值的逻辑：</p><ol><li>可以确定nextval的第一位与next数组第一位相同</li><li>看自身的next值，以next值为下标在这个模式串中寻找，如果是同样的字符，nextval的值变为此字符的nextval值，如果不同则为自身的next值</li></ol><p>按照学习流程：此处放置案例，自行对逻辑进行验证：<br><img src="https://s1.vika.cn/space/2023/02/11/852e405f8ac1427b8631263f4dced69f" alt=""></p><h2 id="广义表"><a href="#广义表" class="headerlink" title="广义表"></a>广义表</h2><p>实际上这类题型主要就是对其中概念进行一个理解，问的都是概念的东西：<br>表头：第一个逗号前面的东西<br>表尾：第一个逗号后面的东西（全部），同时用一个括号括起来<br>长度：逗号分隔成了几块就是几个<br>深度：数括号最多的数（单侧）</p><h2 id="代码设计"><a href="#代码设计" class="headerlink" title="代码设计"></a>代码设计</h2><p>给出建议需要记忆的有：<br>求二叉树的节点个数，叶子节点个数，求树的深度</p>]]></content>
     
@@ -345,9 +370,9 @@
     <link href="http://rugu.space/posts/2906003680.html"/>
     <id>http://rugu.space/posts/2906003680.html</id>
     <published>2022-11-23T02:25:17.000Z</published>
-    <updated>2023-02-12T07:11:13.240Z</updated>
+    <updated>2023-02-14T14:37:45.505Z</updated>
     
-    <content type="html"><![CDATA[<p>C1有没有圈决定着是在左边虚线还是右边（有对应着右边）<br>D触发器<br>左右输出一致<br>如果出现输入时同时存在高低点，此时需要往左偏移一些<br>JK触发器<br>JK （K是复位端，J是置位端）</p><ol><li>对应 1 0 输出Q 左边和左边一致，但是右边就是1</li><li>对应 0 1 输出Q 左边一致，右边是0</li><li>对应 0 0 Q左右 相同</li><li>对应 1 1 Q左右 相反</li></ol><p>多个触发器相连<br>需要挨个分析：要清楚一开始输入的一般都是0，所以可以推出下一段，然后重置输出的Q依次判断每一段</p><p><strong>逻辑公式的证明</strong><br><img src="https://s1.vika.cn/space/2023/02/12/eb6629ae1c2942a986c1f92c5bf7ad64" alt=""></p><p>要记住的公式，首先是0-1律，重点是 A+1 = 1<br>吸收定律：<img src="https://s1.vika.cn/space/2023/02/12/625e2d0418ac4cee8f9027a136bf04f8" alt=""></p><p><img src="https://s1.vika.cn/space/2023/02/12/e142f69c675343f79572b66dfac955b5" alt=""></p><p><img src="https://s1.vika.cn/space/2023/02/12/15b1788a2de0432ab020d90a1e3a8acc" alt=""></p><p>拆项的用法：<br><img src="https://s1.vika.cn/space/2023/02/12/e0571412ab4644fea6df192fffa3ba87" alt=""></p><p><img src="https://s1.vika.cn/space/2023/02/12/56559fd5c1ac44559819fb2ce7bb0eb3" alt=""></p><p><img src="https://s1.vika.cn/space/2023/02/12/eebe9513ea40472094c8db3d8dc49133" alt=""></p><p>为什么卡诺图要对调整两列（使得逻辑相邻转换为卡诺图上的几何相邻）<br><img src="https://s1.vika.cn/space/2023/02/12/dd8122acd8784762be707f58d7d3ccfb" alt=""></p><p>波形图画法：<br><img src="https://s1.vika.cn/space/2023/02/12/8e31e7c4f20245f38f8cdd5780cedd6c" alt=""></p><p>组合逻辑应用：</p><p>半加器，全加器<br><img src="https://s1.vika.cn/space/2023/02/12/3c4956f52b5b480c952ffbdf8b2f2c31" alt=""><br><img src="https://s1.vika.cn/space/2023/02/12/c73dbadc58724fb688a213433fb8d483" alt=""></p><p>进位加法器<br><img src="https://s1.vika.cn/space/2023/02/12/2d270812e13c417ba46b4b0cad789491" alt=""><br><img src="https://s1.vika.cn/space/2023/02/12/cab6b3fddf0740b69875bd9dbdd36e90" alt=""></p><p>设计：<br><img src="https://s1.vika.cn/space/2023/02/12/7bc48e79937e4856bbfd5c1777bdf3de" alt=""><br><img src="https://s1.vika.cn/space/2023/02/12/f8c5b5ae1c4a4fc1997e49676b273406" alt=""></p><p>编码器<br><img src="https://s1.vika.cn/space/2023/02/12/a497736dee0345c0a0e56f251aaba8e1" alt=""></p><p>译码器的应用<br><img src="https://s1.vika.cn/space/2023/02/12/4644daf899d44fbbb48125a315afc803" alt=""></p><p>数据选择器的应用：<br><img src="https://s1.vika.cn/space/2023/02/12/3002c66a63f2476fbc85cdf0ca321906" alt=""></p><p><img src="https://s1.vika.cn/space/2023/02/12/7cb71932cf974becb572cf9dcc4d7b08" alt=""></p><p>先过一遍速成课<br>复习逻辑，先对应看书上的习题，对应速成课去做<br>做不出就看学习通课<br>优先搜集题库，训练一波</p>]]></content>
+    <content type="html"><![CDATA[<p>码制转换:<br>16进制对应四个数，从最低位往最高位数，不够用0补全即可<br><img src="https://s1.vika.cn/space/2023/02/14/032832c954a74d598d40165063bd4767" alt=""><br>关于十进制的变换:<br><img src="https://s1.vika.cn/space/2023/02/14/8434c4e2ccea4634a50cdf7bc4882348" alt=""></p><p><img src="https://s1.vika.cn/space/2023/02/14/4cc5de6c297344e5ad6c8978c83ef3a9" alt=""><br>误差部分：<br><img src="https://s1.vika.cn/space/2023/02/14/55e94c83bb374d40830fc2e45c093a34" alt=""><br>十六进制转换为十进制：<br><img src="https://s1.vika.cn/space/2023/02/14/c0c609362be74094a30fd34ceb1de148" alt=""><br>转换为十进制都是按权展开的方式</p><p>对于转换BCD码，ASCII码<br><img src="https://s1.vika.cn/space/2023/02/14/1ad24e60e2854d22b414695bcf4e7afc" alt=""></p><p>转换格雷码：<br><img src="https://s1.vika.cn/space/2023/02/14/5271dba1ecb94ed3a314af41981bbd95" alt=""><br><img src="https://s1.vika.cn/space/2023/02/14/777616761ca9438d98dfc27b4e6ad80c" alt=""></p><p>源码补码反码：<br><img src="https://s1.vika.cn/space/2023/02/14/8f653c2d16a446699aeea8387a65051b" alt=""></p><p>C1有没有圈决定着是在左边虚线还是右边（有对应着右边）<br>D触发器<br>左右输出一致<br>如果出现输入时同时存在高低点，此时需要往左偏移一些<br>JK触发器<br>JK （K是复位端，J是置位端）</p><ol><li>对应 1 0 输出Q 左边和左边一致，但是右边就是1</li><li>对应 0 1 输出Q 左边一致，右边是0</li><li>对应 0 0 Q左右 相同</li><li>对应 1 1 Q左右 相反</li></ol><p>多个触发器相连<br>需要挨个分析：要清楚一开始输入的一般都是0，所以可以推出下一段，然后重置输出的Q依次判断每一段</p><p><strong>逻辑公式的证明</strong><br><img src="https://s1.vika.cn/space/2023/02/12/eb6629ae1c2942a986c1f92c5bf7ad64" alt=""></p><p>要记住的公式，首先是0-1律，重点是 A+1 = 1<br>吸收定律：<img src="https://s1.vika.cn/space/2023/02/12/625e2d0418ac4cee8f9027a136bf04f8" alt=""></p><p><img src="https://s1.vika.cn/space/2023/02/12/e142f69c675343f79572b66dfac955b5" alt=""></p><p><img src="https://s1.vika.cn/space/2023/02/12/15b1788a2de0432ab020d90a1e3a8acc" alt=""></p><p>拆项的用法：<br><img src="https://s1.vika.cn/space/2023/02/12/e0571412ab4644fea6df192fffa3ba87" alt=""></p><p><img src="https://s1.vika.cn/space/2023/02/12/56559fd5c1ac44559819fb2ce7bb0eb3" alt=""></p><p><img src="https://s1.vika.cn/space/2023/02/12/eebe9513ea40472094c8db3d8dc49133" alt=""></p><p>为什么卡诺图要对调整两列（使得逻辑相邻转换为卡诺图上的几何相邻）<br><img src="https://s1.vika.cn/space/2023/02/12/dd8122acd8784762be707f58d7d3ccfb" alt=""></p><p>波形图画法：<br><img src="https://s1.vika.cn/space/2023/02/12/8e31e7c4f20245f38f8cdd5780cedd6c" alt=""></p><p>组合逻辑应用：</p><p>半加器，全加器<br><img src="https://s1.vika.cn/space/2023/02/12/3c4956f52b5b480c952ffbdf8b2f2c31" alt=""><br><img src="https://s1.vika.cn/space/2023/02/12/c73dbadc58724fb688a213433fb8d483" alt=""><br>逻辑式：<br><img src="https://s1.vika.cn/space/2023/02/13/864a97ca69c6465d859c9bb0286def2a" alt=""></p><p>进位加法器<br><img src="https://s1.vika.cn/space/2023/02/12/2d270812e13c417ba46b4b0cad789491" alt=""><br><img src="https://s1.vika.cn/space/2023/02/12/cab6b3fddf0740b69875bd9dbdd36e90" alt=""></p><p>设计：<br><img src="https://s1.vika.cn/space/2023/02/12/7bc48e79937e4856bbfd5c1777bdf3de" alt=""><br><img src="https://s1.vika.cn/space/2023/02/12/f8c5b5ae1c4a4fc1997e49676b273406" alt=""></p><p>编码器<br><img src="https://s1.vika.cn/space/2023/02/12/a497736dee0345c0a0e56f251aaba8e1" alt=""></p><p>译码器的应用<br><img src="https://s1.vika.cn/space/2023/02/12/4644daf899d44fbbb48125a315afc803" alt=""></p><p>数据选择器的应用：<br><img src="https://s1.vika.cn/space/2023/02/12/3002c66a63f2476fbc85cdf0ca321906" alt=""></p><p><img src="https://s1.vika.cn/space/2023/02/12/7cb71932cf974becb572cf9dcc4d7b08" alt=""></p><p>比较器<br><img src="https://s1.vika.cn/space/2023/02/13/0eef0cb089db4aebac56431e28e00aef" alt=""><br>使用加法器实现减法操作：将需要的减去的数变成反码加上，符号位  1 ==（-）<br>补码：符号位不变，其他位取反再加上1 </p><p>寄存器：<br>记住这样的01一个状态</p><p>触发器：<br>是使用时钟信号的边缘进行的触发</p><p><img src="https://s1.vika.cn/space/2023/02/13/e05ed23888c64ab4bd7fc7cb16c6503a" alt=""></p><p>触发器识别：<br><img src="https://s1.vika.cn/space/2023/02/13/039066f08e744a5e9f399a248838913d" alt=""><br>对于这种带圈的是下降沿，三角和7代表着脉冲沿<br>关于触发器需要注意触发的边缘在那边</p><p>时序逻辑的功能：<br><img src="https://s1.vika.cn/space/2023/02/13/e7aab4e943ce49c980f9cf2dc728be41" alt=""><br><img src="https://s1.vika.cn/space/2023/02/13/e854cea45fe545c4a1e7658f5a49372b" alt=""><br><img src="https://s1.vika.cn/space/2023/02/13/9beba874d88445e2ac72068162d2d06e" alt=""></p><p>状态变化<br><img src="https://s1.vika.cn/space/2023/02/13/4889b5cbd2cb4b3fbb281c41df6a7b76" alt=""></p><p>利用触发器设计计数器：<br><img src="https://s1.vika.cn/space/2023/02/13/0a289dc2f3cd4ae385c5852fcdfa9d04" alt=""><br><img src="https://s1.vika.cn/space/2023/02/13/08d33110c6cc46398d6454f4afc4548b" alt=""><br>没有出现就是静态，在卡诺图中静态也可以被考虑在内<br>做减法就是加的顺序倒过来，即对状态进行反向即可</p><p>计数器大题：<br>清零法：<img src="https://s1.vika.cn/space/2023/02/13/69e655409896416bb1ca3fb9a72761cc" alt=""><br>被标注处短暂存在<br><img src="https://s1.vika.cn/space/2023/02/13/38637973023141e0b6ae8bb4a1aa2b44" alt=""></p><p><strong>时序逻辑部分重点</strong>：</p><p><img src="https://s1.vika.cn/space/2023/02/14/5a0ac7e0c0004538833514b74cac1d36" alt=""></p><p>时序逻辑反推设计栗子：<br><img src="https://s1.vika.cn/space/2023/02/14/55e1dd7bc5d14cee8da9047b6b1aef39" alt=""><br>推导激励方程(驱动)：<br><img src="https://s1.vika.cn/space/2023/02/14/4e1c20bac50b40dc8569511ccd0f6381" alt=""></p><p>什么叫做约束项：不存在的，可以直接被去除<br><img src="https://s1.vika.cn/space/2023/02/14/77aaa2dc607c4eabb3a89274a85c68f9" alt=""><br><img src="https://s1.vika.cn/space/2023/02/14/88551db4a2d0426296edd236e0943957" alt=""><br>自启动能力：即为电路中是否存在有效循环（除了主要实现功能之外），如果没有，即存在自启动能力</p>]]></content>
     
     <summary type="html">
     
@@ -355,9 +380,7 @@
       
         
         
-          &lt;p&gt;C1有没有圈决定着是在左边虚线还是右边（有对应着右边）&lt;br&gt;D触发器&lt;br&gt;左右输出一致&lt;br&gt;如果出现输入时同时存在高低点，此时需要往左偏移一些&lt;br&gt;JK触发器&lt;br&gt;JK （K是复位端，J是置位端）&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;对应 1 0 输出Q
+          &lt;p&gt;码制转换:&lt;br&gt;16进制对应四个数，从最低位往最高位数，不够用0补全即可&lt;br&gt;&lt;img src=&quot;https://s1.vika.cn/space/2023/02/14/032832c954a74d598d40165063bd4767&quot;
         
       
     
@@ -531,33 +554,6 @@
     
     
       <category term="git" scheme="http://rugu.space/tags/git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>待优化🥴😋</title>
-    <link href="http://rugu.space/posts/2940578226.html"/>
-    <id>http://rugu.space/posts/2940578226.html</id>
-    <published>2022-11-13T02:31:48.000Z</published>
-    <updated>2022-12-14T12:20:11.438Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="本网站想要完善的地方"><a href="#本网站想要完善的地方" class="headerlink" title="本网站想要完善的地方"></a>本网站想要完善的地方</h2><p><em>需要抽时间完善</em></p><ol><li>添加复制弹窗（*）</li><li>引用彩色iconfont（*）</li><li>夜晚白天双背景（顺便添加切换动效）（*）</li><li>网站性能持续优化</li><li>添加说说板块 并将其置于首页消息栏（*）</li><li>将网站置于自己的服务器</li><li>添加访客弹窗</li><li>……</li></ol>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;本网站想要完善的地方&quot;&gt;&lt;a href=&quot;#本网站想要完善的地方&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="hexo" scheme="http://rugu.space/tags/hexo/"/>
     
   </entry>
   
